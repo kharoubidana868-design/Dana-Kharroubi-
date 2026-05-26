@@ -1,0 +1,34 @@
+.container {
+    max-width: 1500px;
+    display: block;
+    margin: auto;
+    left: 0px;
+}
+
+.main-content {
+    padding: 50px;
+   width: 100%;
+}
+
+p {
+    margin: 0 0 10px;
+    color: #444;
+}
+
+a{
+    text-decoration: none;
+    color: #2d73ac;
+}
+
+ul{
+    display: flex;
+    gap: 20px;
+}
+li{
+    list-style-type: none;
+    align-items: center;
+}
+li > a{
+
+    color: #909090;
+}

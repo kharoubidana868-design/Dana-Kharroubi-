@@ -1,0 +1,50 @@
+h3 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    font-weight: 500; /* less bold */
+   
+    color: #222;
+    line-height: 1.35;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    letter-spacing: 0.2px;
+}
+
+
+.left-content a {
+    text-decoration:none;
+}
+
+.left-content a:hover,
+.left-content a:active,
+.left-content a:focus {
+    text-decoration:none;
+}
+
+
+
+/* Smaller UL like original page */
+ul {
+    margin: 8px 0 22px 18px;
+    padding-left: 12px;
+}
+
+ul li {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    line-height: 1.20;
+    color: #333;
+    margin-bottom: 5px;
+}
+
+/* Paragraph size to match list */
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    line-height: 2;
+    color: #333;
+}
+
+.img-responsive {
+    width: 100%;
+}

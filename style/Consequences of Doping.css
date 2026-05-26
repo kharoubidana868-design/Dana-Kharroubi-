@@ -1,0 +1,11 @@
+h3 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 23px;
+    font-weight: 500; /* less bold */
+   
+    color: #222;
+    line-height: 1.35;
+    margin-top: 20px;
+    margin-bottom: 5px;
+    letter-spacing: 0.2px;
+}

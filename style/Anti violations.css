@@ -1,0 +1,25 @@
+.left-content{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    line-height: 1.7;
+    color: #333;
+}
+
+.left-content p{
+    margin-bottom: 20px;
+}
+
+.left-content ol{
+    padding-left: 22px;
+    margin-bottom: 10px;
+}
+
+.left-content ol li{
+    margin-bottom: 2px;
+    font-size: 14px;
+    line-height: 1.6;
+}
+
+.left-content b{
+    font-weight: 700;
+}
